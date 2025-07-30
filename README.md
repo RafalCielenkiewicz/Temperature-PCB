@@ -10,7 +10,7 @@ The PCB allows for the connection of temperature sensors and handles:
 - Transmitting the data via the CAN bus to the central control board
 
 
-## ⚙Technical Highlights
+## Technical Highlights
 
 - Designed for compatibility with CAN communication
 - Carefully selected components to ensure:
