@@ -2,7 +2,7 @@
 
 This project is a custom-designed PCB board dedicated to reading temperature data from sensors and transmitting it over a CAN bus to the main board of our solar-powered boat. It is being developed as part of the SolarBoat Team initiative.
 
-## 📌 Project Description
+## Project Description
 
 The PCB allows for the connection of temperature sensors and handles:
 
@@ -10,7 +10,7 @@ The PCB allows for the connection of temperature sensors and handles:
 - Transmitting the data via the CAN bus to the central control board
 
 
-## ⚙️ Technical Highlights
+## ⚙Technical Highlights
 
 - Designed for compatibility with CAN communication
 - Carefully selected components to ensure:
@@ -18,15 +18,15 @@ The PCB allows for the connection of temperature sensors and handles:
   - Stable data transmission
   - Low power consumption
 
-## 🔧 Use Case
+## Use Case
 
 This PCB will be one of several boards connected to the main controller via a CAN bus. It plays a crucial role in monitoring environmental conditions inside the solar boat, contributing to system diagnostics and safety.
 
-## 🛠️ Team
+## Team
 
 This project is developed by me to the SolarBoat Team, a student engineering group focused on building innovative and sustainable watercraft.
 
-## 🖼️ Gallery
+## Gallery
 
 <img width="1576" height="1045" alt="image" src="https://github.com/user-attachments/assets/ff6a6903-a390-4fa4-ad2d-d3ed86fb5730" />
 
