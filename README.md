@@ -1,4 +1,4 @@
-# Temperature Sensor PCB for CAN Communication
+# Temperature PCB 
 
 This project is a custom-designed PCB board dedicated to reading temperature data from sensors and transmitting it over a CAN bus to the main board of our solar-powered boat. It is being developed as part of the SolarBoat Team initiative.
 
